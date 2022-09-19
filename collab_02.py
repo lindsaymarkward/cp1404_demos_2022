@@ -5,8 +5,7 @@ Then print n smiley faces, where n is a random number between
 low and high inclusive.
 """
 
-# import random  # way 1
-from random import randint  # 2
+from random import randint
 
 SMILEY = ":) "
 
